@@ -37,7 +37,6 @@ a {
 #first-container {
     background-color: #dbf6e9;
     padding-top: 50px;
-    /* height: calc(100vh - 50px); */
     position: relative;
 }
 
@@ -73,10 +72,6 @@ hr {
     margin: 0 auto 30px auto;
     width: 200px;
 }
-
-/* .skills h2 {
-    margin-top: 100px;
-} */
 
 .skill-row {
     width: 50%;
@@ -127,9 +122,6 @@ hr {
     text-decoration: none;
  }
 
-/* .skill-row p {
-    text-align: left;
-} */
 
 #third-container {
     background-color: #66BFBF;
