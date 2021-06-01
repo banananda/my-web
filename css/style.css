@@ -59,6 +59,7 @@ hr {
     border-top: 10px dotted #EAF6F6;
     width: 5em;
     margin:20px auto 80px auto;
+    clear: both;
 }
 
 .profile {
