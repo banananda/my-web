@@ -34,6 +34,10 @@ a {
     color: #11999E;
 }
 
+a:hover {
+    color: #EAF6F6;
+}
+
 #first-container {
     background-color: #dbf6e9;
     padding-top: 50px;
@@ -82,15 +86,19 @@ hr {
 }
 
 .chicken-img {
-    width: 25%;
+    width: 20%;
     float: left;
     margin-right: 30px;
 }
 
 .fish-img {
-    width: 25%;
+    width: 20%;
     float: right;
     margin-left: 30px;
+}
+
+.fish {
+    text-align: right;
 }
 
 .contact-me {
